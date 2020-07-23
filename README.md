@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Akash  👋
 
 <!--
 **akamhy/akamhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src='https://github-readme-stats.vercel.app/api?username=akamhy&&show_icons=true&title_color=ffffff&icon_color=daf7dc&text_color=daf7dc&bg_color=1e90ff'>
