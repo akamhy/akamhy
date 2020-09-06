@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 <a href="https://pypi.org/user/akamhy/">
   <img align="left" alt="akamhy - PyPi" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pypi.svg"/>
 </a>
+
+<a href="https://medium.com/@akamhy">
+  <img align="left" alt="akamhy - Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+</a>
