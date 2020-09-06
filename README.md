@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 <img src='https://github-readme-stats.vercel.app/api?username=akamhy&&show_icons=true&title_color=ffffff&icon_color=daf7dc&text_color=daf7dc&bg_color=1e90ff'>
 
+<a href="https://pypi.org/user/akamhy/">
+  <img align="left" alt="akamhy - PyPi" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pypi.svg"/>
+</a>
+
 <a href="https://gitlab.com/akamhy">
   <img align="left" alt="akamhy - GitLab" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg"/>
 </a>
@@ -30,8 +34,8 @@ Here are some ideas to get you started:
   <img align="left" alt="akamhy - NPM" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg"/>
 </a>
 
-<a href="https://pypi.org/user/akamhy/">
-  <img align="left" alt="akamhy - PyPi" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pypi.svg"/>
+<a href="mailto:akash3pro@gmail.com">
+  <img align="left" alt="akamhy - Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 
 <a href="https://medium.com/@akamhy">
