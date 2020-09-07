@@ -36,6 +36,14 @@ Here are some ideas to get you started:
   <img align="left" alt="akamhy - Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 
+<a href="https://launchpad.net/~akamhy">
+  <img align="left" alt="akamhy - Launchpad" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/launchpad.svg"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/User:Akamhy">
+  <img align="left" alt="akamhy - Wikipedia - Wikimedia wikis" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wikipedia.svg"/>
+</a>
+
 <a href="https://medium.com/@akamhy">
   <img align="left" alt="akamhy - Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
