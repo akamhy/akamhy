@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Akash  👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=akamhy&&show_icons=true&title_color=ffffff&icon_color=daf7dc&text_color=daf7dc&bg_color=4b4a4a">
+<img src="https://github-readme-stats.vercel.app/api?username=akamhy&title_color=000000&show_icons=true&icon_color=000000">
 
 <a href="https://pypi.org/user/akamhy/">
   <img align="left" alt="akamhy - PyPi" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pypi.svg"/>
