@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 ### Hi there, I'm Akash
 
 <a href="https://github.com/akamhy">
-  <img src="https://github-readme-stats.vercel.app/api?username=akamhy&title_color=000000&show_icons=true&icon_color=000000">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=akamhy&title_color=000000&show_icons=true&icon_color=000000">
 </a>
-
 
 
 <a href="https://pypi.org/user/akamhy/">
