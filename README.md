@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Akash
 
-<a href="https://github.com/akamhy">  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akamhy&title_color=000000&show_icons=true&icon_color=000000">  
-</a>  
 
-
+<img align="left" href="https://github.com/akamhy" src="https://github-readme-stats.vercel.app/api?username=akamhy&title_color=000000&show_icons=true&icon_color=000000">  
 
 
 
