@@ -67,8 +67,12 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/akamhy?hr_r=1">
   <img align="left" alt="akamhy - HackerRank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/>
 </a>
--->
 
 <a href="https://www.reddit.com/user/akamhy">
   <img align="left" alt="akamhy - Reddit" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/>
+</a>
+-->
+
+<a href="https://keybase.io/akamhy">
+  <img align="left" alt="akamhy - Keybase" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg"/>
 </a>
