@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 Find me on
+
 <a href="https://pypi.org/user/akamhy/">
   <img align="left" alt="akamhy - PyPi" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pypi.svg"/>
 </a>
