@@ -32,7 +32,7 @@ Find me on
   <img align="left" alt="akamhy - NPM" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg"/>
 </a>
 
-<a href="mailto:akash3pro@gmail.com">
+<a href="mailto:akamhy@yahoo.com">
   <img align="left" alt="akamhy - Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 
