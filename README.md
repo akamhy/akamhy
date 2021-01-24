@@ -24,28 +24,8 @@ Find me on
   <img align="left" alt="akamhy - GitLab" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg"/>
 </a>
 
-<a href="https://www.kaggle.com/akamhy">
-  <img align="left" alt="akamhy - Kaggle" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg"/>
-</a>
-
-<a href="https://www.npmjs.com/~akamhy">
-  <img align="left" alt="akamhy - NPM" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg"/>
-</a>
-
 <a href="mailto:akamhy@yahoo.com">
   <img align="left" alt="akamhy - Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
-</a>
-
-<a href="https://launchpad.net/~akamhy">
-  <img align="left" alt="akamhy - Launchpad" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/launchpad.svg"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/User:Akamhy">
-  <img align="left" alt="akamhy - Wikipedia - Wikimedia wikis" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wikipedia.svg"/>
-</a>
-
-<a href="https://medium.com/@akamhy">
-  <img align="left" alt="akamhy - Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
 
 <a href="https://codepen.io/akamhy">
@@ -53,22 +33,35 @@ Find me on
 </a>
 <!--
 
-<a href="https://www.freecodecamp.org/akamhy">
-  <img align="left" alt="akamhy - freeCodeCamp" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg"/>
+<a href="https://www.npmjs.com/~akamhy">
+  <img align="left" alt="akamhy - NPM" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg"/>
 </a>
 
-<a href="https://www.codechef.com/users/akamhy">
-  <img align="left" alt="akamhy - CodeChef" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg"/>
+<a href="https://launchpad.net/~akamhy">
+  <img align="left" alt="akamhy - Launchpad" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/launchpad.svg"/>
+</a>
+
+<a href="https://medium.com/@akamhy">
+  <img align="left" alt="akamhy - Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+</a>
+
+<a href="https://www.freecodecamp.org/akamhy">
+  <img align="left" alt="akamhy - freeCodeCamp" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg"/>
 </a>
 
 <a href="https://www.hackerrank.com/akamhy?hr_r=1">
   <img align="left" alt="akamhy - HackerRank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/>
 </a>
 
+<a href="https://www.kaggle.com/akamhy">
+  <img align="left" alt="akamhy - Kaggle" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg"/>
+</a>
+
+-->
+
 <a href="https://www.reddit.com/user/akamhy">
   <img align="left" alt="akamhy - Reddit" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/>
 </a>
--->
 
 <a href="https://keybase.io/akamhy">
   <img align="left" alt="akamhy - Keybase" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg"/>
