@@ -28,10 +28,25 @@ Find me on
   <img align="left" alt="akamhy - Gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 
+
+<a href="https://www.reddit.com/user/akamhy">
+  <img align="left" alt="akamhy - Reddit" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/>
+</a>
+
+<a href="https://medium.com/@akamhy">
+  <img align="left" alt="akamhy - Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+</a>
+
+<a href="https://keybase.io/akamhy">
+  <img align="left" alt="akamhy - Keybase" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg"/>
+</a>
+
+
+<!--
+
 <a href="https://codepen.io/akamhy">
   <img align="left" alt="akamhy - CodePen" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg"/>
 </a>
-<!--
 
 <a href="https://www.npmjs.com/~akamhy">
   <img align="left" alt="akamhy - NPM" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg"/>
@@ -39,10 +54,6 @@ Find me on
 
 <a href="https://launchpad.net/~akamhy">
   <img align="left" alt="akamhy - Launchpad" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/launchpad.svg"/>
-</a>
-
-<a href="https://medium.com/@akamhy">
-  <img align="left" alt="akamhy - Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
 
 <a href="https://www.freecodecamp.org/akamhy">
@@ -58,11 +69,3 @@ Find me on
 </a>
 
 -->
-
-<a href="https://www.reddit.com/user/akamhy">
-  <img align="left" alt="akamhy - Reddit" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/>
-</a>
-
-<a href="https://keybase.io/akamhy">
-  <img align="left" alt="akamhy - Keybase" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg"/>
-</a>
